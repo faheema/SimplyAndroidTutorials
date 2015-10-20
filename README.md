@@ -1,5 +1,5 @@
 ### AndroidTraining - Beginning the journey of Android developer
-#### 1. [Simple Steps to setup your android](https://github.com/faheema/AndroidTutorial/wiki)
+####1.[Simple Steps to setup your android](https://github.com/faheema/AndroidTutorial/wiki)
 #### 2. [First Android App](https://github.com/faheema/AndroidTraining/tree/master/FirstApp)
 #### 3. [Activity Lifecycle](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleActivityLifeCycle)
 #### 4. [Layout in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo)
@@ -13,6 +13,6 @@
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/layout2.png" align="left" height="250" width="150" ></a>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/layout3.png" align="left" height="250" width="150" ></a>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/layout4.png" align="left" height="250" width="150" ></a>
- <br></div>
-#### 5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)<br>
+ <br> </div>
+####  5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)<br>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo"><img src="https://github.com/faheema/images/blob/master/widget.png" align="left" height="250" width="150" ></a>
