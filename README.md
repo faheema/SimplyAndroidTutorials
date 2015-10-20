@@ -3,7 +3,7 @@
 #### 2. [First Android App](https://github.com/faheema/AndroidTraining/tree/master/FirstApp)
 #### 3. [Activity Lifecycle](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleActivityLifeCycle)
 #### 4. [Layout in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo)
-<table >
+<table bordor='0' >
 <tr>
 <th>Frame Layout</th><th>Relative Layout</th><th>Linear Layout </th><th>Table Layout </th>
 </tr>
