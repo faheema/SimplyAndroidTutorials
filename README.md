@@ -13,7 +13,7 @@
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/layout3.png" align="left" height="250" width="150" ></a>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/layout4.png" align="left" height="250" width="150" ></a>
 <div> <br></br></div>
-#### 5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)
+#### 5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)<br>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo"><img src="https://github.com/faheema/images/blob/master/widget.png" align="left" height="250" width="150" ></a>
 
 
