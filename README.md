@@ -4,7 +4,7 @@
 #### 3. [Activity Lifecycle](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleActivityLifeCycle)
 #### 4. [Layout in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo)
 <div align="center">
-<table border="0" align='center' >
+<table border="-1" align='center' >
 <tr>
 <th>Frame Layout</th><th>Relative Layout</th><th>Linear Layout </th><th>Table Layout </th>
 </tr>
