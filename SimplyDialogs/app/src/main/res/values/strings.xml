@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SimplyDialogs</string>
+
+    <string-array name="colors_array">
+         <item>red</item>
+         <item>green</item>
+         <item>blue</item>
+    </string-array>
+    <string-array name="single_choice_array">
+        <item>item 1</item>
+        <item>item 2</item>
+        <item>item 3</item>
+    </string-array>
+
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+
+</resources>
