@@ -30,15 +30,15 @@
 <div align="center">
 <table border="0" align='center' >
 <tr>
-<td>
+<th>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/dialogs1.png" align="left" height="250" width="150" ></a>
-</td>
+</th>
 
-<td>
+<th>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/dialgs2.png" align="left" height="250" width="150" ></a>
-</td><td>
+</th><th>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/dialgs3.png" align="left" height="250" width="150" ></a>
-</td>
+</th>
 </tr>
 <tr><td>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/dialogs4.png" align="left" height="250" width="150" ></a>
