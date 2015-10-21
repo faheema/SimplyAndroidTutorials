@@ -35,9 +35,9 @@
 </th>
 
 <th>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/dialgs2.png" align="left" height="250" width="150" ></a>
+<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/Dialogs2.png" align="left" height="250" width="150" ></a>
 </th><th>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/dialgs3.png" align="left" height="250" width="150" ></a>
+<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/dialogs3.png" align="left" height="250" width="150" ></a>
 </th>
 </tr>
 <tr><td>
@@ -46,7 +46,7 @@
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/dialogs5.png" align="left" height="250" width="150" ></a>
 </td>
 <td>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/dialogs5.png" align="left" height="250" width="150" ></a>
+<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/dialogs6.png" align="left" height="250" width="150" ></a>
 </td>
 </table>
  </div>
