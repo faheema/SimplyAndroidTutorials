@@ -30,7 +30,7 @@
 ####  6. [Dialogs in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
 ![Dialog][1]
 <div align="center">
-![Dialog2][2]
+<img src="https://github.com/faheema/images/blob/master/dialogs6.png" align="left" height="250" width="150" >
  </div>
  
  
