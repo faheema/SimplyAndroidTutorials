@@ -5,16 +5,11 @@
 #### 4. [Layout in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo)
 ![Dialog][1]
 ####  5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)<br>
-<table border="0" align='center' >
-
-<tr>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo"><img src="https://github.com/faheema/images/blob/master/widget.png" align="left" height="250" width="150" ></a>
-</tr>
-</table>
+![Dialog][2]
 ####  6. [Dialogs in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
-![Dialog][1]
- 
- #### 7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
+![Dialog][3]
+
+#### 7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
  
  
  
@@ -55,7 +50,7 @@ Faheem Unnisa- <faheem.fu@gmail.com>
 
 
  [1]:https://github.com/faheema/images/blob/master/layouts.png 
- [2]:https://github.com/faheema/images/blob/master/dialogs6.png
+ [2]:https://github.com/faheema/images/blob/master/widget.png
  [3]:https://github.com/faheema/images/blob/master/dlg_sc.png 
  [4]: 
  [5]: https://github.com/ManuelPeinado/MultiChoiceAdapter/tree/master/samples/stock
