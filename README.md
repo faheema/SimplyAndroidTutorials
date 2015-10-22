@@ -29,10 +29,11 @@
 </table>
 ####  6. [Dialogs in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
 ![Dialog][1]
+Custom Dilalog
 <div align="center">
-<img src="https://github.com/faheema/images/blob/master/dialogs6.png" align="left" height="250" width="150" >
- </div>
- 
+<img src="https://github.com/faheema/images/blob/master/dialogs6.png" align="center" height="250" width="150" >
+ </div><br><br>
+ ####  7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
  
  
  
