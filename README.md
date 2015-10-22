@@ -22,35 +22,20 @@
  </div>
 ####  5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)<br>
 <table border="0" align='center' >
-![Dialog][1]
+
 <tr>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo"><img src="https://github.com/faheema/images/blob/master/widget.png" align="left" height="250" width="150" ></a>
 </tr>
 </table>
 ####  6. [Dialogs in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
+![Dialog][1]
 <div align="center">
-<table border="0" align='center' >
-<tr>
-<th>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs"><img src="https://github.com/faheema/images/blob/master/dialogs1.png" align="left" height="250" width="150" ></a>
-</th>
-
-<th>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs"><img src="https://github.com/faheema/images/blob/master/Dialogs2.png" align="left" height="250" width="150" ></a>
-</th><th>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs"><img src="https://github.com/faheema/images/blob/master/dialogs3.png" align="left" height="250" width="150" ></a>
-</th>
-</tr>
-<tr><td>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs"><img src="https://github.com/faheema/images/blob/master/dialogs4.png" align="left" height="250" width="150" ></a>
-</td><td>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs"><img src="https://github.com/faheema/images/blob/master/dialogs5.png" align="left" height="250" width="150" ></a>
-</td>
-<td>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs"><img src="https://github.com/faheema/images/blob/master/dialogs6.png" align="left" height="250" width="150" ></a>
-</td>
-</table>
+![Dialog2][2]
  </div>
+ 
+ 
+ 
+ 
  License
 -----------
 
@@ -88,7 +73,7 @@ Faheem Unnisa- <faheem.fu@gmail.com>
 
 
  [1]: https://github.com/faheema/images/blob/master/dlg_sc.png
- [2]: http://actionbarsherlock.com
+ [2]: https://github.com/faheema/images/blob/master/dialogs6.png
  [3]: 
  [4]: 
  [5]: https://github.com/ManuelPeinado/MultiChoiceAdapter/tree/master/samples/stock
