@@ -33,7 +33,8 @@
 <div align="center">
 <img src="https://github.com/faheema/images/blob/master/dialogs6.png" align="center" height="270" width="200" >
  </div><br><br>
- ####  7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
+ 
+ #### 7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
  
  
  
