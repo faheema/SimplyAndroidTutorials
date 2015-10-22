@@ -74,15 +74,15 @@ Faheem Unnisa- <faheem.fu@gmail.com>
 
 <a href="https://twitter.com/Faheem_u">
   <img alt="Follow me on Twitter"
-       src="https://pbs.twimg.com/profile_images/615680132565504000/EIpgSD2K.png" />
+       src="https://pbs.twimg.com/profile_images/615680132565504000/EIpgSD2K.png"  height="50" width="50" />
 </a>
 <a href="https://plus.google.com/106514622630861903655">
-  <img alt="Follow me on g+"
-       src="https://plus.google.com/106330204068533978551" />
+  <img alt="Follow me on twitter"
+    src="https://pbs.twimg.com/profile_images/638750728354430976/HnTYCHzN_400x400.png" height="50" width="50" />
 </a>
 <a href="https://in.linkedin.com/pub/faheem-u/22/245/733">
   <img alt="Follow me on linked In"
-       src="https://pbs.twimg.com/profile_images/614583061448036352/CBpFkPaz_400x400.png />
+   src="https://pbs.twimg.com/profile_images/614583061448036352/CBpFkPaz_400x400.png"  height="50" width="50"/>
 
 
 
