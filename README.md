@@ -22,6 +22,7 @@
  </div>
 ####  5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)<br>
 <table border="0" align='center' >
+![Dialog][1]
 <tr>
 <a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo"><img src="https://github.com/faheema/images/blob/master/widget.png" align="left" height="250" width="150" ></a>
 </tr>
