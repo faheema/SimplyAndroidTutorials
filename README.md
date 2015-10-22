@@ -3,23 +3,7 @@
 #### 2. [First Android App](https://github.com/faheema/AndroidTraining/tree/master/FirstApp)
 #### 3. [Activity Lifecycle](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleActivityLifeCycle)
 #### 4. [Layout in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo)
-<div align="center">
-<table  align='center' >
-<tr>
-<th>Frame Layout</th><th>Relative Layout</th><th>Linear Layout </th><th>Table Layout </th>
-</tr>
-<tr>
-<td>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/layout1.png" align="left" height="250" width="150" ></a>
-</td><td>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/layout2.png" align="left" height="250" width="150" ></a>
-</td><td>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/layout3.png" align="left" height="250" width="150" ></a>
-</td><td>
-<a href="https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo"><img src="https://github.com/faheema/images/blob/master/layout4.png" align="left" height="250" width="150" ></a>
-</td>
-</table>
- </div>
+![Dialog][1]
 ####  5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)<br>
 <table border="0" align='center' >
 
@@ -70,9 +54,9 @@ Faheem Unnisa- <faheem.fu@gmail.com>
 
 
 
- [1]: https://github.com/faheema/images/blob/master/dlg_sc.png
- [2]: https://github.com/faheema/images/blob/master/dialogs6.png
- [3]: 
+ [1]:https://github.com/faheema/images/blob/master/layouts.png 
+ [2]:https://github.com/faheema/images/blob/master/dialogs6.png
+ [3]:https://github.com/faheema/images/blob/master/dlg_sc.png 
  [4]: 
  [5]: https://github.com/ManuelPeinado/MultiChoiceAdapter/tree/master/samples/stock
  [6]: https://github.com/TimotheeJeannin/ProviGen
