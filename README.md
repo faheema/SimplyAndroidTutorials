@@ -11,9 +11,9 @@
 
 #### 7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
  <img alt="Listview"
-   src="https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyListView/img/lv1.png"  align="left" height="210" width="400"/>
+   src="https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyListView/img/lv1.png"  align="left" height="410" width="210"/>
  <img alt="Listview"
-   src="https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyListView/img/lv2.png"  align="left" height="210" width="400"/>
+   src="https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyListView/img/lv2.png"  align="left" height="410" width="210"/>
  
  
  License
