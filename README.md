@@ -10,13 +10,10 @@
 ![Dialog][3]
 
 #### 7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
- <div align="center">
- <img alt="Listview"
-   src="https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyListView/img/lv1.png"  align="left" height="410" width="210"/>
- <img alt="Listview"
-   src="https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyListView/img/lv2.png"  align="left" height="410" width="210"/>
- 
- </div><br><br>
+![Dialog][4]
+
+#### 8. [Custom ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)
+<br>
  
  License
 -----------
@@ -57,7 +54,7 @@ Faheem Unnisa- <faheem.fu@gmail.com>
  [1]:https://github.com/faheema/images/blob/master/layouts.png 
  [2]:https://github.com/faheema/images/blob/master/widget.png
  [3]:https://github.com/faheema/images/blob/master/dlg_sc.png 
- [4]: 
+ [4]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyListView/img/lv.png 
  [5]: https://github.com/ManuelPeinado/MultiChoiceAdapter/tree/master/samples/stock
  [6]: https://github.com/TimotheeJeannin/ProviGen
  [7]: https://play.google.com/store/apps/details?id=com.projectsexception.myapplist
