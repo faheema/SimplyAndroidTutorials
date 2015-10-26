@@ -5,10 +5,5 @@
 
         android:title="Settings" />
 
-    <item
-        android:id="@+id/emailsettings"
-
-        android:title="Email" />
-    />
 
 </menu>
