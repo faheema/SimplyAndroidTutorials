@@ -11,12 +11,10 @@
 
 #### 7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
 ![ListView in Android][4]
-
-#### 8. [Custom ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleCustListview)
-<br>![Custom ListView in Android][5]
-
-#### 9. [Implicit in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleImplicitIntents)
-<br>![Implicit Intents][6]
+#### 8. [Custom ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleCustListview)<br>
+![Custom ListView in Android][5]
+#### 9. [Implicit in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleImplicitIntents)<br>
+![Implicit Intents][6]
  
  License
 -----------
