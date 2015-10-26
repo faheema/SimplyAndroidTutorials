@@ -51,9 +51,9 @@ Faheem Unnisa- <faheem.fu@gmail.com>
 
 
 
- [1]:https://github.com/faheema/images/blob/master/layouts.png 
- [2]:https://github.com/faheema/images/blob/master/widget.png
- [3]:https://github.com/faheema/images/blob/master/dlg_sc.png 
+ [1]:https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo/img/sclayout.png
+ [2]:https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo/img/widget.png
+ [3]:https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs/img/dlg_sc.png 
  [4]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyListView/img/lv.png 
  [5]: https://github.com/ManuelPeinado/MultiChoiceAdapter/tree/master/samples/stock
  [6]: https://github.com/TimotheeJeannin/ProviGen
