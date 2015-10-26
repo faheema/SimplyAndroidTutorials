@@ -43,4 +43,4 @@
         android:layout_alignLeft="@+id/button"
         android:layout_alignStart="@+id/button" />
 </RelativeLayout>
-<!-- From: file:/Users/Faheem/AndroidStudioProjects/classexamples/SimplyLayoutsDemo/app/src/main/res/layout/activity_relative_layout.xml -->
+<!-- From: file:/Users/Faheem/AndroidTraining/SimplyLayoutsDemo/app/src/main/res/layout/activity_relative_layout.xml -->
