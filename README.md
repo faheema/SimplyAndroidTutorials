@@ -16,7 +16,7 @@
 <br>![Custom ListView in Android][5]
 
 #### 9. [Implicit in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleImplicitIntents)
-<br>![Implicit Intents][5]
+<br>![Implicit Intents][6]
  
  License
 -----------
