@@ -17,6 +17,8 @@
 ![Implicit Intents][6]
 #### 10. [Explicit in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleExplicitIntents)<br>
 ![Explicit Intents][7]
+#### 10. [Preference Activity](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplePreferenceActivity)<br>
+![Preference Activity][8]
  
  License
 -----------
@@ -61,8 +63,8 @@ Faheem Unnisa- <faheem.fu@gmail.com>
  [5]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleCustListview/img/sc_cuslist.png
  [6]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleImplicitIntents/img/sc_iintent.png
  [7]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleExplicitIntents/img/sc_eintent.png
+ [8]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplePreferenceActivity/img/sc_pref.png
  
- [8]: https://github.com/ManuelPeinado/MultiChoiceAdapter/wiki/MultiChoiceArrayAdapter-tutorial
  [9]: https://github.com/ManuelPeinado/MultiChoiceAdapter/wiki/MultiChoiceBaseAdapter-tutorial
  [10]: https://github.com/ManuelPeinado/MultiChoiceAdapter/wiki/MultiChoiceSimpleCursorAdapter-tutorial
  [11]: https://github.com/ManuelPeinado/MultiChoiceAdapter/wiki/Gallery-tutorial
