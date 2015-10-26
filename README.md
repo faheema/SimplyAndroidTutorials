@@ -12,8 +12,8 @@
 #### 7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
 ![ListView in Android][4]
 
-#### 8. [Custom ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)
-<br>
+#### 8. [Custom ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleCustListview)
+<br>![Custom ListView in Android][5]
  
  License
 -----------
@@ -55,8 +55,7 @@ Faheem Unnisa- <faheem.fu@gmail.com>
  [2]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyWidgetsDemo/img/widget.png
  [3]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyDialogs/img/dlg_sc.png 
  [4]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyListView/img/lv.png 
- 
- [5]: https://github.com/ManuelPeinado/MultiChoiceAdapter/tree/master/samples/stock
+ [5]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleCustListview/img/sc_cuslist.png
  [6]: https://github.com/TimotheeJeannin/ProviGen
  [7]: https://play.google.com/store/apps/details?id=com.projectsexception.myapplist
  [8]: https://github.com/ManuelPeinado/MultiChoiceAdapter/wiki/MultiChoiceArrayAdapter-tutorial
