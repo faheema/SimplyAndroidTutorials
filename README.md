@@ -3,14 +3,14 @@
 #### 2. [First Android App](https://github.com/faheema/AndroidTraining/tree/master/FirstApp)
 #### 3. [Activity Lifecycle](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleActivityLifeCycle)
 #### 4. [Layout in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo)
-![Dialog][1]
-####  5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)<br>
-![Dialog][2]
-####  6. [Dialogs in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
+![Layout in Android][1]
+#### 5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)<br>
+![Widgets Demo in Android][2]
+#### 6. [Dialogs in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
 ![Dialog][3]
 
 #### 7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
-![Dialog][4]
+![ListView in Android][4]
 
 #### 8. [Custom ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)
 <br>
