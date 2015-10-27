@@ -19,8 +19,8 @@
 ![Explicit Intents][7]
 #### 10. [Preference Activity](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplePreferenceActivity)<br>
 ![Preference Activity][8]
- #### 11. [Shared Preference](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleSharedPreference)<br>
-![Shared Preference][8]
+#### 11. [Shared Preference](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleSharedPreference)<br>
+![Shared Preference][9]
  
  License
 -----------
@@ -67,6 +67,7 @@ Faheem Unnisa- <faheem.fu@gmail.com>
  [7]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleExplicitIntents/img/sc_eintent.png
  [8]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplePreferenceActivity/img/sc_pref.png
  [9]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleSharedPreference/img/sc_sharepref.png
+ 
  [10]: https://github.com/ManuelPeinado/MultiChoiceAdapter/wiki/MultiChoiceSimpleCursorAdapter-tutorial
  [11]: https://github.com/ManuelPeinado/MultiChoiceAdapter/wiki/Gallery-tutorial
  [12]: https://play.google.com/store/apps/details?id=com.dpizarro.nfc.basic
