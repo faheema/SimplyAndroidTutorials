@@ -25,7 +25,7 @@
             android:entries="@array/listOptions"
             android:entryValues="@array/listValues"
             android:key="listpref"
-            android:summary="select duration to errase the data"
+            android:summary="select duration to erase the data"
             android:title="List preference" />
     </PreferenceCategory>
 </PreferenceScreen>
