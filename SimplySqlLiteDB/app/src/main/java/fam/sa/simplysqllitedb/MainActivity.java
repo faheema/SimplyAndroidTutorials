@@ -32,23 +32,6 @@ public class MainActivity extends AppCompatActivity {
         arrayAdapter= new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1, dbHelperClass.getAllTasks());
 
         lstVTaks.setAdapter(arrayAdapter);
-        lstVTaks.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> p_arg0, View p_arg1, int p_arg2, long p_arg3) {
-                String selectedItems = new String("Selected Items = ");
-                int totalcount = lstVTaks.getCount();
-                /*sparseBooleanArraySparseBooleanArray sparseBooleanArray = lstVTaks.getCheckedItemPositions();
-                 for (int i = 0; i < totalcount; i++) {
-
-                    if (sparseBooleanArray.get(i)) {
-
-                        selectedItems += lstVTaks.getItemAtPosition(i).toString() + "\n";
-                    }
-                }*/
-                Toast.makeText(MainActivity.this, ""+totalcount, Toast.LENGTH_LONG).show();
-                Log.v("values", selectedItems);
-            }
-        });
 
         btnAdd.setOnClickListener(new View.OnClickListener() {
             @Override
