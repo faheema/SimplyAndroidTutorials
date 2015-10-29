@@ -85,5 +85,13 @@ public class TaskDBHelperClass extends SQLiteOpenHelper {
         return cursor.getCount();
     }
 
+    public void deleteContact(String lasTask) {
+        SQLiteDatabase db = this.getWritableDatabase();
+        db.delete(TABLE_TASKS, KEY_task + " = ?",
+                new String[] { lasTask });
+        db.close();
+    }
+
+
 }
 
