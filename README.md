@@ -21,6 +21,8 @@
 ![Preference Activity][8]
 #### 11. [Shared Preference](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleSharedPreference)<br>
 ![Shared Preference][9]
+#### 12. [SQL-Lite DataBase](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplySqlLiteDB)<br>
+![SQLite DB demo][10]
  
  License
 -----------
@@ -67,7 +69,6 @@ Faheem Unnisa- <faheem.fu@gmail.com>
  [7]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleExplicitIntents/img/sc_eintent.png
  [8]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplePreferenceActivity/img/sc_pref.png
  [9]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleSharedPreference/img/sc_sharepref.png
- 
- [10]: https://github.com/ManuelPeinado/MultiChoiceAdapter/wiki/MultiChoiceSimpleCursorAdapter-tutorial
+ [10]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplySqlLiteDB/img/sc_db.png
  [11]: https://github.com/ManuelPeinado/MultiChoiceAdapter/wiki/Gallery-tutorial
  [12]: https://play.google.com/store/apps/details?id=com.dpizarro.nfc.basic
