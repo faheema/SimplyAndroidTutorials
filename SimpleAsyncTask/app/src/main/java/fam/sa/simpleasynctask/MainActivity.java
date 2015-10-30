@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         protected void onPostExecute(Bitmap result) {
-            Log.d("***result****"," result== "+result);
+            Log.d("***result****"," result= "+result);
         // Set the bitmap into ImageView
             ivShowImage.setImageBitmap(result);
             // Close progressdialog
@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
 
                  bmp = BitmapFactory.decodeStream(is);
 
-                Log.d("***bmp****"," bmp== "+bmp);
+                Log.d("***bmp****"," bmp= "+bmp);
                 if (null != bmp)
                     return bmp;
 
