@@ -1,7 +1,9 @@
 package ss.salc.ActivityLifeCycle;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -17,6 +19,10 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "onCreate",  Toast.LENGTH_SHORT).show();
     }
 
+    public void onClickButton(View view)
+    {
+        startActivity(new Intent(MainActivity.this, AnotherActivity.class));
+    }
     /**onStart() and onStop()
      Use to setup code that starts/stops the activity. Unlike onResume() and onPause(), it includes Paused state as well.
      onRestart()Called when the activity is restarted. It is followed by onStart() and onResume().
