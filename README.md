@@ -2,13 +2,13 @@
 ####1.[Simple Steps to setup your android](https://github.com/faheema/AndroidTutorial/wiki)
 #### 2. [First Android App](https://github.com/faheema/AndroidTraining/tree/master/FirstApp)
 #### 3. [Activity Lifecycle](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleActivityLifeCycle)
+![Activity Lifecycle][0]
 #### 4. [Layout in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyLayoutsDemo)
 ![Layout in Android][1]
 #### 5. [Widgets Demo in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyWidgetsDemo)<br>
 ![Widgets Demo in Android][2]
 #### 6. [Dialogs in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
 ![Dialog][3]
-
 #### 7. [ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplyDialogs)<br>
 ![ListView in Android][4]
 #### 8. [Custom ListView in Android](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleCustListview)<br>
@@ -23,7 +23,10 @@
 ![Shared Preference][9]
 #### 12. [SQL-Lite DataBase](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplySqlLiteDB)<br>
 ![SQLite DB demo][10]
- 
+#### 13. [AsyncTask Demo with image download](https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimplySqlLiteDB)<br>
+![AsyncTask Demo][11]
+
+
  License
 -----------
 
@@ -59,7 +62,7 @@ Faheem Unnisa- <faheem.fu@gmail.com>
    src="https://pbs.twimg.com/profile_images/614583061448036352/CBpFkPaz_400x400.png"  height="50" width="50"/>
 
 
-
+ [0]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleActivityLifeCycle/img/sc_a.png
  [1]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyLayoutsDemo/img/sclayout.png
  [2]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyWidgetsDemo/img/widget.png
  [3]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplyDialogs/img/dlg_sc.png 
@@ -70,5 +73,5 @@ Faheem Unnisa- <faheem.fu@gmail.com>
  [8]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplePreferenceActivity/img/sc_pref.png
  [9]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleSharedPreference/img/sc_sharepref.png
  [10]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplySqlLiteDB/img/sc_db.png
- [11]: https://github.com/ManuelPeinado/MultiChoiceAdapter/wiki/Gallery-tutorial
+ [11]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleAsyncTask/img/sc_async.png
  [12]: https://play.google.com/store/apps/details?id=com.dpizarro.nfc.basic
