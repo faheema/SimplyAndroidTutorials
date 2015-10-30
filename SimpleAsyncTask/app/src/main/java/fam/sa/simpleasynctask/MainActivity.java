@@ -91,8 +91,6 @@ public class MainActivity extends AppCompatActivity {
 
                 InputStream is = con.getInputStream();
 
-                final BitmapFactory.Options options = new BitmapFactory.Options();
-
                  bmp = BitmapFactory.decodeStream(is);
 
                 Log.d("***bmp****"," bmp= "+bmp);
