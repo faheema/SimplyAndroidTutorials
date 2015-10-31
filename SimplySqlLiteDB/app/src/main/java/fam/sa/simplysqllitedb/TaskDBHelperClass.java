@@ -25,8 +25,10 @@ public class TaskDBHelperClass extends SQLiteOpenHelper {
 
 
     public TaskDBHelperClass(Context context){
+
         super(context,DATABASE_NAME,null,DATABASE_VERSION);
     }
+    @Override
     public void onCreate(SQLiteDatabase db) {
         String CREATE_CONTACTS_TABLE = "CREATE TABLE " + TABLE_TASKS + "("
                 + KEY_ID + " INTEGER PRIMARY KEY," + KEY_task + " TEXT"+")";
@@ -40,6 +42,7 @@ public class TaskDBHelperClass extends SQLiteOpenHelper {
         // Create tables again
         onCreate(database);
     }
+
     // Adding new Task
     public void addTask(String  task) {
 
@@ -85,7 +88,7 @@ public class TaskDBHelperClass extends SQLiteOpenHelper {
         return cursor.getCount();
     }
 
-    public void deleteContact(String lasTask) {
+    public void deleteTask(String lasTask) {
         SQLiteDatabase db = this.getWritableDatabase();
         db.delete(TABLE_TASKS, KEY_task + " = ?",
                 new String[] { lasTask });
