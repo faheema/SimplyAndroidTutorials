@@ -30,7 +30,7 @@
 #### 15. [Broadcast Reciever] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleBroadcastReciever)<br>
 ![BroadCast Receiver Demo][13]
 
-#### 16. [Google MAPS] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleAsyncTask)<br>
+#### 16. [Google MAPS] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/GoogleMapsDemo)<br>
 ![GoogleMaps Demo][14]
 #### 17. [Fragments] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleAsyncTask)<br>
 ![Fragments Demo][15]
