@@ -86,7 +86,7 @@ Faheem Unnisa- <faheem.fu@gmail.com>
  [12]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/sc_se.png
  [13]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleBroadcastReciever/img/sc_re.png
   
- [14]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/sc_se.png
- [15]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/sc_se.png
- [16]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/sc_se.png
+ [14]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/
+ [15]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/
+ [16]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/
 
