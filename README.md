@@ -26,13 +26,14 @@
 #### 13. [AsyncTask Demo with image download] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleAsyncTask)<br>
 ![AsyncTask Demo][11]
 #### 14. [Android Service] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleServiceDemo)<br>
-![AsyncTask Demo][12]
+![Android Service Demo][12]
 #### 15. [Broadcast Reciever] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleBroadcastReciever)<br>
-![AsyncTask Demo][13]
+![BroadCast Receiver Demo][13]
+
 #### 16. [Google MAPS] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleAsyncTask)<br>
-![AsyncTask Demo][14]
+![GoogleMaps Demo][14]
 #### 17. [Fragments] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleAsyncTask)<br>
-![AsyncTask Demo][14]
+![Fragments Demo][15]
 
 
  License
@@ -82,7 +83,7 @@ Faheem Unnisa- <faheem.fu@gmail.com>
  [9]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleSharedPreference/img/sc_sharepref.png
  [10]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimplySqlLiteDB/img/sc_db.png
  [11]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleAsyncTask/img/sc_async.png
- [12]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/sc_se.png
+ [12]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/sc_se.png
  [13]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleBroadcastReciever/img/sc_re.png
   
  [13]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/sc_se.png
