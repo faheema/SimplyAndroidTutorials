@@ -67,8 +67,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             mMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
     }
 
-/*
-    public void onZoom(View view)
+/* public void onZoom(View view)
     {
         if(view.getId() == R.id.Bzoomin)
         {
@@ -78,7 +77,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         {
             mMap.animateCamera(CameraUpdateFactory.zoomOut());
         }
-    }*/
+    }
+ */
 
     @Override
     public void onMapReady(GoogleMap googleMap) {
