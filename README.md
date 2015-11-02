@@ -25,6 +25,14 @@
 ![SQLite DB demo][10]
 #### 13. [AsyncTask Demo with image download] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleAsyncTask)<br>
 ![AsyncTask Demo][11]
+#### 14. [Android Service] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleServiceDemo)<br>
+![AsyncTask Demo][12]
+#### 15. [Broadcast Reciever] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleBroadcastReciever)<br>
+![AsyncTask Demo][13]
+#### 16. [Google MAPS] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleAsyncTask)<br>
+![AsyncTask Demo][14]
+#### 17. [Fragments] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleAsyncTask)<br>
+![AsyncTask Demo][14]
 
 
  License
