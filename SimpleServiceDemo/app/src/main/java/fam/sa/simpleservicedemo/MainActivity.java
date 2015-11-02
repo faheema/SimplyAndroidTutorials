@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -21,6 +22,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btn_stopService =(Button)findViewById(R.id.btn_stopService);
         btn_startService.setOnClickListener(this);
         btn_stopService.setOnClickListener(this);
+        Toast.makeText(this, "Activity OnCreate", Toast.LENGTH_SHORT).show();
     }
 
     @Override
@@ -37,5 +39,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             break;
 
         }
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Toast.makeText(this, "Activity Destroy", Toast.LENGTH_SHORT).show();
+
     }
 }

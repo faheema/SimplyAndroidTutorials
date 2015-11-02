@@ -35,7 +35,9 @@ public class MyPhoneReceiver extends BroadcastReceiver {
         }
     }
 }
- /*   @Override
+ /*
+ * // Another way to here on the telephone call reciver
+ @Override
     public void onReceive(Context context, Intent intent) {
         this.context=context;
         MyPhoneStateListener phoneListener=new MyPhoneStateListener();

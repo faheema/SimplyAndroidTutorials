@@ -28,10 +28,11 @@ public class MyService extends Service {
         mediaPlayer.start();
     }
 
+
     @Override
     public void onDestroy() {
         super.onDestroy();
-        Toast.makeText(this ,"My Service Created" ,Toast.LENGTH_SHORT).show();
+        Toast.makeText(this ,"My Service Destroy" ,Toast.LENGTH_SHORT).show();
         mediaPlayer.stop();
     }
 }
