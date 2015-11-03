@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="2">
+
+
+    <fragment
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:name="fam.sa.fragmentsdemo.ColorListFragment"
+        android:id="@+id/fragment"
+        android:layout_weight="1"/>
+
+    <fragment
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:name="fam.sa.fragmentsdemo.ColorDetailsFragment"
+        android:id="@+id/fragment2"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"/>
+</LinearLayout>

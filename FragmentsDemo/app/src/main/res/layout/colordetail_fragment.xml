@@ -1,0 +1,20 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="fam.sa.fragmentsdemo.BlankFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/ivColor"
+        android:layout_gravity="center_horizontal|top"
+        android:background="#939775" />
+
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:layout_gravity="center" android:gravity="center"
+        android:text="@string/hello_blank_fragment"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:id="@+id/tvColorCode" />
+
+</FrameLayout>
