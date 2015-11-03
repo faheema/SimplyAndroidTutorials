@@ -32,7 +32,7 @@
 
 #### 16. [Google MAPS] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/GoogleMapsDemo)<br>
 ![GoogleMaps Demo][14]
-#### 17. [Fragments] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleAsyncTask)<br>
+#### 17. [Fragments] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/FragmentsDemo)<br>
 ![Fragments Demo][15]
 
 
@@ -86,6 +86,6 @@ Faheem Unnisa- <faheem.fu@gmail.com>
  [12]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/sc_se.png
  [13]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleBroadcastReciever/img/sc_re.png
  [14]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/GoogleMapsDemo/img/sc_map.png
- [15]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/
+ [15]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/FragmentsDemo/img/sc_fr.png
  [16]: https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleServiceDemo/img/
 
