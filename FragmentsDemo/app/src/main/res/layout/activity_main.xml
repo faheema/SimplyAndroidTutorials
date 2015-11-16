@@ -2,7 +2,7 @@
     android:orientation="horizontal"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:weightSum="2">
+    android:weightSum="1">
 
 
     <fragment
@@ -10,7 +10,7 @@
         android:layout_height="match_parent"
         android:name="fam.sa.fragmentsdemo.ColorListFragment"
         android:id="@+id/fragment"
-        android:layout_weight="1"/>
+        android:layout_weight="0.5"/>
 
     <fragment
         android:layout_width="0dp"
@@ -18,5 +18,5 @@
         android:name="fam.sa.fragmentsdemo.ColorDetailsFragment"
         android:id="@+id/fragment2"
         android:layout_gravity="center_vertical"
-        android:layout_weight="1"/>
+        android:layout_weight="0.5"/>
 </LinearLayout>

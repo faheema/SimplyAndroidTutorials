@@ -22,7 +22,9 @@ public class ColorListFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
          super.onCreateView(inflater, container, savedInstanceState);
+
         View view = inflater.inflate(R.layout.colorlist_fragment, container, false);
+
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(getActivity(),
                 android.R.layout.simple_list_item_1, getActivity().getResources().getStringArray(R.array.colorlist));
 
@@ -32,8 +34,8 @@ public class ColorListFragment extends Fragment {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
-                ColorDetailsFragment txt = (ColorDetailsFragment)getFragmentManager().findFragmentById(R.id.fragment2);
-                txt.change(position);
+                ColorDetailsFragment fragment2 = (ColorDetailsFragment)getFragmentManager().findFragmentById(R.id.fragment2);
+                fragment2.change(position);
                 listView.setSelector(android.R.color.holo_blue_dark);
 
 

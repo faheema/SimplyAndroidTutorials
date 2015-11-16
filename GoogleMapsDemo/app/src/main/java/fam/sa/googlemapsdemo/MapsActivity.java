@@ -37,6 +37,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     public void onSearchClick(View view)
     {
         List<Address> addrList=null;
+
                 EditText text= (EditText) findViewById(R.id.etAddress);
         String locationStr = text.getText().toString();
         try {
@@ -47,8 +48,10 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         }
         Address address= addrList.get(0);
         LatLng latLng = new LatLng(address.getLatitude() , address.getLongitude());
+
         mMap.addMarker(new MarkerOptions().position(latLng).title("Marker"));
         mMap.animateCamera(CameraUpdateFactory.newLatLng(latLng));
+
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -67,7 +70,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             mMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
     }
 
-/* public void onZoom(View view)
+ public void onZoom(View view)
     {
         if(view.getId() == R.id.Bzoomin)
         {
@@ -78,7 +81,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             mMap.animateCamera(CameraUpdateFactory.zoomOut());
         }
     }
- */
+
 
     @Override
     public void onMapReady(GoogleMap googleMap) {
@@ -86,8 +89,10 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         // Add a marker in Sydney and move the camera
         LatLng sydney = new LatLng(-34, 151);
-        mMap.addMarker(new MarkerOptions().position(new LatLng(0,0)).title("Marker in Sydney"));
+
+        mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
         mMap.setMyLocationEnabled(true);
         mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+
     }
 }
