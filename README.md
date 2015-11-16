@@ -32,7 +32,7 @@
 
 #### 16. [Google MAPS] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/GoogleMapsDemo)<br>
 ![GoogleMaps Demo][14]
-#### 17. [Fragments LifeCycle with Activiy] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleFragment1)<br>
+#### 17. [Fragments LifeCycle with Activity] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/SimpleFragment1)<br>
 ![Fragments LifeCycle][15]
 #### 18. [Fragments] (https://github.com/faheema/SimplyAndroidTutorials/tree/master/FragmentsDemo)<br>
 ![Fragments Demo][16]
