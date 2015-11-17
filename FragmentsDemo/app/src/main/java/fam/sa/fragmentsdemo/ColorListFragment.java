@@ -1,6 +1,8 @@
 package fam.sa.fragmentsdemo;
 
+import android.app.Activity;
 import android.app.Fragment;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 
@@ -18,6 +20,7 @@ import android.widget.ListView;
 public class ColorListFragment extends Fragment {
 
     ListView listView ;
+    ICommunicator mCallBack;
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -34,8 +37,7 @@ public class ColorListFragment extends Fragment {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
 
-                ColorDetailsFragment fragment2 = (ColorDetailsFragment)getFragmentManager().findFragmentById(R.id.fragment2);
-                fragment2.change(position);
+                mCallBack.chage(position);
                 listView.setSelector(android.R.color.holo_blue_dark);
 
 
@@ -46,5 +48,10 @@ public class ColorListFragment extends Fragment {
 
     }
 
+    @Override
+    public void onAttach(Activity activity) {
 
+        super.onAttach(activity);
+        mCallBack = (ICommunicator)activity;
+    }
 }

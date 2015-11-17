@@ -2,13 +2,13 @@ package fam.sa.fragmentsdemo;
 
 import android.app.FragmentManager;
 import android.content.res.Configuration;
-import android.support.v4.app.FragmentTransaction;
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Display;
 import android.view.WindowManager;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements ICommunicator {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -23,11 +23,21 @@ public class MainActivity extends AppCompatActivity {
             return;
         }
 
-      /*
-            // During initial setup, plug in the details fragment.
-            ColorDetailsFragment details = new ColorDetailsFragment();
-            details.setArguments(getIntent().getExtras());
-            getFragmentManager().beginTransaction().add(android.R.id.content, details).commit();*/
+    }
 
+    @Override
+    public void chage(int pos) {
+
+        ColorDetailsFragment fragment2 = (ColorDetailsFragment)getFragmentManager().findFragmentById(R.id.fragment2);
+
+        // The user selected the headline of an article from the HeadlinesFragment
+        // Do something here to display that article
+
+        if (fragment2 != null) {
+
+            // Call a method in the ArticleFragment to update its content
+            fragment2.change(pos);
+
+        }
     }
 }
