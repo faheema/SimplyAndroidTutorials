@@ -61,7 +61,7 @@ Developed By
 Faheem Unnisa- <faheem.fu@gmail.com>
 
 <a href="https://twitter.com/Faheem_u">
-  <img alt="Follow me on Twitter"
+  <img alt="Follow me on google +"
        src="https://pbs.twimg.com/profile_images/615680132565504000/EIpgSD2K.png"  height="50" width="50" />
 </a>
 <a href="https://plus.google.com/106330204068533978551">
