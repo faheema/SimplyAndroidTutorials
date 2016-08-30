@@ -58,19 +58,20 @@
 Developed By
 --------------------
 
-Faheem Unnisa- <faheem.fu@gmail.com>
+Faheem - <DFahmApps@gmail.com>
 
 <a href="https://twitter.com/Faheem_u">
   <img alt="Follow me on Twitter"
-       src="https://pbs.twimg.com/profile_images/666407537084796928/YBGgi9BO_400x400.png"  height="50" width="50" />
+       src="https://github.com/faheema/img/blob/master/t.png"  height="50" width="50" />
 </a>
-<a href="https://plus.google.com/106330204068533978551">
+<a href="https://plus.google.com/u/3/b/114889013615715274495/114889013615715274495/about">
   <img alt="Follow me on G+"
-    src="https://pbs.twimg.com/profile_images/638750728354430976/HnTYCHzN_400x400.png" height="50" width="50" />
+    src="https://github.com/faheema/img/blob/master/g.png" height="50" width="50" />
 </a>
 <a href="https://in.linkedin.com/pub/faheem-u/22/245/733">
   <img alt="Follow me on linked In"
-   src="https://pbs.twimg.com/profile_images/614583061448036352/CBpFkPaz_400x400.png"  height="50" width="50"/>
+   src="https://github.com/faheema/img/blob/master/ln.png"  height="50" width="50"/>
+
 
 
  [0]:https://github.com/faheema/SimplyAndroidTutorials/blob/master/SimpleActivityLifeCycle/img/sc_a.png
